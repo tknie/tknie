@@ -1,10 +1,10 @@
 ### Hi all 😄
 
-I've worked since 1995 with/on Linux and since 2000 as a developer. Currently the GIThub projects are for **_personal_** private projects only. I'm working as a Software Architect and so this is fun for me.
+I've worked with/on Linux since 1995 and as a developer since 2000. Currently the GIThub projects are for **_personal_** private projects only. I'm working as a Software Architect or Technology Lead and so this is fun for me.
 
 #### I’m currently working on
 
-I need a SQL- or NoSQL-based database layer for a private adaption of the adabas-bitgarten project. This layer should be able to use either MariaDB, Postgres or MongoDB.
+I need a SQL- or NoSQL-based database layer for a private adaption of the picture storage and management project. This layer should be able to use either MariaDB, Postgres or MongoDB.
 In addition I'm working on an dynamic RESTful access for any of the database types.
 My favorite programming topics are
 
@@ -12,7 +12,8 @@ My favorite programming topics are
 - Golang
 - Java
 - ViewJS
-- Microservices (Docker)
+
+All projects run in Microservices (Docker, podman, Cloud).
 
 #### Past business
 
@@ -24,7 +25,7 @@ Software AG projects were
 - Adabas admin RESTful client
 - Adabas RESTful web application
 
-Only for Adabas-GO-API I did some minor changes because of performance. Due to a missing Adabas license the work is reduced to Adabas Community Edition version topics.
+Only for Adabas-GO-API I did some minor changes because of performance after I left the company. Due to a missing Adabas license the work is reduced to Adabas Community Edition version topics.
 
 <!--
 **tknie/tknie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
