@@ -11,9 +11,9 @@ My favorite programming topics are
 - C
 - Golang
 - Java
-- ViewJS
+- VueJS
 
-All projects run in Microservices (Docker, podman, Cloud).
+All projects run in Microservices (Docker, podman, Cloud(AWS,Google Cloud, Azure)).
 
 #### Past business
 
